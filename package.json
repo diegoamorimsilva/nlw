@@ -11,8 +11,10 @@
   "dependencies": {
     "dependencies": "0.0.1",
     "express": "^4.17.1",
+    "nextjs": "0.0.3",
     "nunjucks": "^3.2.2",
-    "sqlite3": "^4.2.0"
+    "sqlite3": "^4.2.0",
+    "nextjs": "0.0.3"
   },
   "devDependencies": {
     "nodemon": "^2.0.7"
